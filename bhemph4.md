@@ -1,7 +1,9 @@
 # Profile: Braeden Hemphill 
 - **Netid**: bhemph4
-- **Major**: CS + Linguistics
 - **Question that I chose from the memoization exercise:** [nth Catalan number](https://www.geeksforgeeks.org/dsa/program-nth-catalan-number/)
+- **Major**: CS + Linguistics
+- **Favorite topic**: programming languages
+- **Challenging**: counting problems
 
 ```c
 int findCatalan(int n, int *memo) {
