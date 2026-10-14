@@ -1,7 +1,4 @@
-Name: Sarayu
-Major: Data Science
-Favorite CS Topic: Git and GitHub
-Challenging Topic: Recursion and Memoization No newline at end of file
+
 - **NetID:** schic
 - **Major:** Data Science
 - **Question that I chose from the memoization exercise:** nth Fibonacci number
